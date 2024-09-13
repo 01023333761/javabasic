@@ -1,0 +1,23 @@
+package d_array;
+
+public class ex00_개념 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		 int a1=1;
+		 int a2=2;
+		 int a3=3;
+		 System.out.println(a1);
+		 System.out.println(a2);
+		 System.out.println(a3);
+	
+	     int[]z;
+	     z = new int[3];
+	     // int[] z = new int[3];
+	     for(int i=0; i<z.length; i++) {
+	    	 System.out.println(z[i]);
+	      }
+	     }
+
+}
